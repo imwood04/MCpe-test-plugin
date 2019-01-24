@@ -1,1 +1,6 @@
-
+name: McpeTestPLugin
+api: [3.0.0]
+version: 1.0.0
+main: 
+author: imwood04
+description: a test plugin
