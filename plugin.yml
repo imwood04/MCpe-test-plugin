@@ -1,6 +1,6 @@
 name: McpeTestPLugin
 api: [3.0.0]
 version: 1.0.0
-main: 
+main: MCpe-test-plugin/src/imwood04/main.php
 author: imwood04
 description: a test plugin
